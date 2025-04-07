@@ -1,0 +1,14 @@
+/* Global css */
+
+/* Global css */
+header nav ul a {
+  color:black;
+  text-decoration: none;
+  padding:0 8px;
+  /* השינוי יתבצע באנימציה
+  של 0.8 שניות */
+  transition: 800ms;
+}
+header nav ul a:hover {
+  color:orange;
+}
